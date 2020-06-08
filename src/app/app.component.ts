@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'NG421wk1day1ToDoApp';
+  todoList: any [] = [];
 }
